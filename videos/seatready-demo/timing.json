@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01-need",
+    "text": "A training enquiry starts with a goal, not a course title. SeatReady helps a small training provider turn that enquiry into a suitable course, a clear quote, and a reviewed booking.",
+    "duration": 11.093333,
+    "start": 0
+  },
+  {
+    "id": "02-match",
+    "text": "Here, three beginners want to use AI for emails and reports. We enter their budget and online preference. SeatReady checks the catalogue constraints, then asks OpenAI to recommend an eligible course.",
+    "duration": 13.077333,
+    "start": 11.993
+  },
+  {
+    "id": "03-quote",
+    "text": "The recommendation explains the fit. The server calculates the quote from trusted catalogue prices: three seats at one hundred and forty-nine dollars, for a total of four hundred and forty-seven dollars. These are fictional demo courses and prices.",
+    "duration": 15.637333,
+    "start": 25.971
+  },
+  {
+    "id": "04-no-fit",
+    "text": "The assistant can also say no. An advanced scuba-diving enquiry produces no suitable course and no checkout. A helpful follow-up replaces a forced recommendation.",
+    "duration": 10.837333,
+    "start": 42.508
+  },
+  {
+    "id": "05-review",
+    "text": "Before payment, the operator reviews the course, date, seat count, and total. The quote expires after fifteen minutes, and availability is checked again when checkout starts. AI cannot change the price or take payment.",
+    "duration": 13.546667,
+    "start": 54.245
+  },
+  {
+    "id": "06-paypal",
+    "text": "PayPal is central to the booking flow. The server creates the sandbox order, and the buyer approves it in PayPal checkout. This test uses a sandbox account and moves no real money.",
+    "duration": 11.605333,
+    "start": 68.692
+  },
+  {
+    "id": "07-confirm",
+    "text": "SeatReady verifies the captured amount, currency, order, and quote before marking the booking paid. The capture reference is saved with the booking. A payment check can reconcile an uncertain result without starting a new charge.",
+    "duration": 14.101333,
+    "start": 81.197
+  },
+  {
+    "id": "08-close",
+    "text": "SeatReady combines OpenAI structured recommendations, a React booking desk, an Express API, SQLite records, and PayPal sandbox checkout. It is a local hackathon prototype. The next step is a real training catalogue and production administration. From enquiry to a considered booking, with the operator in control.",
+    "duration": 21.461333,
+    "start": 96.199
+  }
+]

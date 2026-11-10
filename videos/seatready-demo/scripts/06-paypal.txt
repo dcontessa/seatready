@@ -1,0 +1,1 @@
+PayPal is central to the booking flow. The server creates the sandbox order, and the buyer approves it in PayPal checkout. This test uses a sandbox account and moves no real money.

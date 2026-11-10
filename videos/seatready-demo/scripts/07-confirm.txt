@@ -1,0 +1,1 @@
+SeatReady verifies the captured amount, currency, order, and quote before marking the booking paid. The capture reference is saved with the booking. A payment check can reconcile an uncertain result without starting a new charge.

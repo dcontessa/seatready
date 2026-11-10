@@ -1,0 +1,1 @@
+Before payment, the operator reviews the course, date, seat count, and total. The quote expires after fifteen minutes, and availability is checked again when checkout starts. AI cannot change the price or take payment.

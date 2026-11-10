@@ -1,0 +1,1 @@
+Here, three beginners want to use AI for emails and reports. We enter their budget and online preference. SeatReady checks the catalogue constraints, then asks OpenAI to recommend an eligible course.

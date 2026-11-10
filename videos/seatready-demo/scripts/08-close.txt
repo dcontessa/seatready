@@ -1,0 +1,1 @@
+SeatReady combines OpenAI structured recommendations, a React booking desk, an Express API, SQLite records, and PayPal sandbox checkout. It is a local hackathon prototype. The next step is a real training catalogue and production administration. From enquiry to a considered booking, with the operator in control.

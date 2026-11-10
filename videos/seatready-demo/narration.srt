@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:11,343
+A training enquiry starts with a goal, not a course title. SeatReady helps a small training provider turn that enquiry into a suitable course, a clear quote, and a reviewed booking.
+
+2
+00:00:12,243 --> 00:00:25,320
+Here, three beginners want to use AI for emails and reports. We enter their budget and online preference. SeatReady checks the catalogue constraints, then asks OpenAI to recommend an eligible course.
+
+3
+00:00:26,220 --> 00:00:41,857
+The recommendation explains the fit. The server calculates the quote from trusted catalogue prices: three seats at one hundred and forty-nine dollars, for a total of four hundred and forty-seven dollars. These are fictional demo courses and prices.
+
+4
+00:00:42,757 --> 00:00:53,594
+The assistant can also say no. An advanced scuba-diving enquiry produces no suitable course and no checkout. A helpful follow-up replaces a forced recommendation.
+
+5
+00:00:54,494 --> 00:01:08,041
+Before payment, the operator reviews the course, date, seat count, and total. The quote expires after fifteen minutes, and availability is checked again when checkout starts. AI cannot change the price or take payment.
+
+6
+00:01:08,941 --> 00:01:20,546
+PayPal is central to the booking flow. The server creates the sandbox order, and the buyer approves it in PayPal checkout. This test uses a sandbox account and moves no real money.
+
+7
+00:01:21,446 --> 00:01:35,547
+SeatReady verifies the captured amount, currency, order, and quote before marking the booking paid. The capture reference is saved with the booking. A payment check can reconcile an uncertain result without starting a new charge.
+
+8
+00:01:36,447 --> 00:01:57,908
+SeatReady combines OpenAI structured recommendations, a React booking desk, an Express API, SQLite records, and PayPal sandbox checkout. It is a local hackathon prototype. The next step is a real training catalogue and production administration. From enquiry to a considered booking, with the operator in control.
