@@ -88,10 +88,10 @@ The browser build was checked for accidental inclusion of the saved key; none wa
 
 ## Project and sources
 
-- [SeatReady project](https://devpost.com/software/seatready). The story, screenshots, video and judge instructions are prepared; final submission awaits the entrant’s rules and eligibility confirmation.
+- [SeatReady project](https://devpost.com/software/seatready). Submitted to the PayPal AI Hackathon on 10 November 2026, with the demonstration video, screenshots, source repository and local testing instructions.
 - [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs)
 - [PayPal checkout integration](https://developer.paypal.com/checkout/integrate/)
 - [PayPal Orders v2](https://developer.paypal.com/docs/api/orders/v2/)
 - Visual reference and design system: `design/seatready-concept.png` and `design/DESIGN.md`.
 
-The application runs locally using the complete instructions above. The editable demo source is in [videos/seatready-demo](videos/seatready-demo). Final Devpost submission status is recorded separately after verification.
+The application runs locally using the complete instructions above. The editable demo source is in [videos/seatready-demo](videos/seatready-demo). Devpost displayed “Project submitted!” after finalization.

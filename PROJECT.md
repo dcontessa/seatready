@@ -17,14 +17,20 @@ AI explains a plausible match or asks for clarification. It cannot create catalo
 ## Current evidence
 
 - User selected the SeatReady concept in chat.
-- Existing Devpost draft: submission `1292628`, project `1537688`, now named SeatReady.
+- SeatReady submitted to the PayPal AI Hackathon on 10 November 2026: submission `1292628`, project `1537688`.
 - Local source is in the existing `PayPal-AI` folder.
 - Live OpenAI matching verified with fictional enquiries.
 - PayPal sandbox buyer payment of USD 447 verified on 10 November 2026, including capture validation, cancellation, and repeated capture requests returning the same reference.
 - Fourteen automated tests and the production build pass.
 
-## Next milestone
+## Hackathon delivery
 
-The 1:59 demo is rendered and uploaded, and the public MIT repository is backed up. Finish Devpost fields and final rules/eligibility confirmation. The user authorized autonomous completion, including video, repository backup and a separate personal clone. Final submission must use a complete, truthful packet and satisfy the event's eligibility and rules confirmation.
+Devpost confirmed “Project submitted!” on 10 November 2026 after the entrant explicitly confirmed eligibility and agreement to the rules and terms.
 
-Do not describe the project as submitted, deployed, accepting real payments, or using real provider data.
+- Project: https://devpost.com/software/seatready
+- Demo: https://youtu.be/gJBsN4zNfUQ (1:59, unlisted)
+- Public MIT repository: https://github.com/dcontessa/seatready
+- Rendered video backup: https://github.com/dcontessa/seatready/releases/tag/v0.1.0
+- Separate personal clone created on branch `personal-use`; no personal feature changes have been made.
+
+The app remains a local prototype with fictional course data and sandbox-only payments. It is not publicly deployed or ready to accept real payments.
