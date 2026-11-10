@@ -7,3 +7,5 @@ The main amounts and outcomes remain readable at reduced size. Detailed UI text 
 The complete HyperFrames check passed: lint, runtime, layout, motion, contrast, craft and audio. The single retained lint warning concerns scene 2's video start at 1.4 seconds; this is intentionally composition-local. Footer text was raised to 28 pixels after the first audit. Audio durations were measured; narration has not been subjectively listened to in this tool session.
 
 Total planned duration: 118.558 seconds. No real payment, learner data, credentials, music or cloned voice appears in the film.
+
+Rendered MP4 verified as 1920×1080 H.264 with 48 kHz AAC, 118.6 seconds. Decoded frames at 18, 88 and 117 seconds were visually checked. The upload copy uses FFmpeg loudness normalization targeting -16 LUFS and -1.5 dB true peak, with the video stream unchanged.

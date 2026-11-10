@@ -79,6 +79,12 @@ Fourteen automated tests cover input/price tampering, eligibility filters, unrel
 
 The browser build was checked for accidental inclusion of the saved key; none was present. HTTP requests for `.env.local`, including Vite's filesystem route, returned 403 without exposing the key.
 
+## Demo and source
+
+- [Watch the 1:59 demo on YouTube](https://youtu.be/gJBsN4zNfUQ).
+- [Public source repository](https://github.com/dcontessa/seatready), licensed under MIT.
+- [Editable video project](videos/seatready-demo), with narration and captured application assets.
+
 ## Project and sources
 
 - [SeatReady Devpost draft](https://devpost.com/submit-to/31302-paypal-ai-hackathon/manage/submissions/1292628-seatready/project-overview). Name and pitch were saved earlier in this chat; no final submission was made.

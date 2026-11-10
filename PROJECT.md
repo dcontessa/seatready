@@ -25,6 +25,6 @@ AI explains a plausible match or asks for clarification. It cannot create catalo
 
 ## Next milestone
 
-Finish the approximately two-minute demo video, public source repository, and Devpost fields. The user authorized autonomous completion, including video, repository backup and a separate personal clone. Final submission must use a complete, truthful packet and satisfy the event's eligibility and rules confirmation.
+The 1:59 demo is rendered and uploaded, and the public MIT repository is backed up. Finish Devpost fields and final rules/eligibility confirmation. The user authorized autonomous completion, including video, repository backup and a separate personal clone. Final submission must use a complete, truthful packet and satisfy the event's eligibility and rules confirmation.
 
 Do not describe the project as submitted, deployed, accepting real payments, or using real provider data.
