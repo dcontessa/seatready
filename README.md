@@ -84,10 +84,11 @@ The browser build was checked for accidental inclusion of the saved key; none wa
 - [Watch the 1:59 demo on YouTube](https://youtu.be/gJBsN4zNfUQ).
 - [Public source repository](https://github.com/dcontessa/seatready), licensed under MIT.
 - [Editable video project](videos/seatready-demo), with narration and captured application assets.
+- [Download the rendered demo](https://github.com/dcontessa/seatready/releases/tag/v0.1.0).
 
 ## Project and sources
 
-- [SeatReady Devpost draft](https://devpost.com/submit-to/31302-paypal-ai-hackathon/manage/submissions/1292628-seatready/project-overview). Name and pitch were saved earlier in this chat; no final submission was made.
+- [SeatReady project](https://devpost.com/software/seatready). The story, screenshots, video and judge instructions are prepared; final submission awaits the entrant’s rules and eligibility confirmation.
 - [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs)
 - [PayPal checkout integration](https://developer.paypal.com/checkout/integrate/)
 - [PayPal Orders v2](https://developer.paypal.com/docs/api/orders/v2/)

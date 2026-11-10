@@ -21,3 +21,4 @@ videos/**/audio-result.json
 devpost-submission.md
 videos/**/.thumbnails/
 videos/**/.waveform-cache/
+.devpost-additional-info-draft.json
